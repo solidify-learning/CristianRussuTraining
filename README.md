@@ -2,7 +2,7 @@
 
 - Class Date: 20-21 June
 - Facilitator: @crisrss
-
+What's up Buttercup!!
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
